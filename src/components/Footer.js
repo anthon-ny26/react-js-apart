@@ -40,11 +40,11 @@ const footer = () => {
                     onClick={() => window.open("https://tiktok.com/")}
                     className="social-media"
                   />
-                  <Image
+                  {/* <Image
                     src={logo1}
                     onClick={() => window.open("https://facebook.com/")}
                     className="social-media"
-                  />
+                  /> */}
                 </li>
               </ul>
             </div>
