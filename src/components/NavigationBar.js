@@ -12,7 +12,7 @@ const NavigationBar = () => {
         <Navbar.Brand href="#top-page">Bintang Residence</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
-          <Nav className="me-auto">
+          <Nav className="ml-auto">
             <Nav.Link href="#top-page">Home</Nav.Link>
             <NavDropdown title="Rooms" id="basic-nav-dropdown">
               <NavDropdown.Item href="#towera">Tower A</NavDropdown.Item>
