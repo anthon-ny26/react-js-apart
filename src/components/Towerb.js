@@ -19,8 +19,8 @@ const Towera = () => {
                 <Card.Title>B 101</Card.Title>
                 <Card.Text>1 BR | Tower B | Floor 1</Card.Text>
                 <Row>
-                  <Col md={4}>RP.1.500.000</Col>
-                  <Col md={3}></Col>
+                  <Col md={5}>RP. 300.000 / Day</Col>
+                  <Col md={2}></Col>
                   <Col md={5}>
                     <div className="text-end ">
                       <Button
@@ -46,8 +46,8 @@ const Towera = () => {
                 <Card.Title>B 102</Card.Title>
                 <Card.Text>1 BR | Tower B | Floor 1</Card.Text>
                 <Row>
-                  <Col md={4}>RP.1.500.000</Col>
-                  <Col md={3}></Col>
+                  <Col md={5}>RP. 300.000 / Day</Col>
+                  <Col md={2}></Col>
                   <Col md={5}>
                     <div className="text-end ">
                       <Button
@@ -73,8 +73,8 @@ const Towera = () => {
                 <Card.Title>B 103</Card.Title>
                 <Card.Text>1 BR | Tower B | Floor 1</Card.Text>
                 <Row>
-                  <Col md={4}>RP.1.500.000</Col>
-                  <Col md={3}></Col>
+                  <Col md={5}>RP. 300.000 / Day</Col>
+                  <Col md={2}></Col>
                   <Col md={5}>
                     <div className="text-end ">
                       <Button
@@ -100,8 +100,8 @@ const Towera = () => {
                 <Card.Title>B 104</Card.Title>
                 <Card.Text>1 BR | Tower B | Floor 1</Card.Text>
                 <Row>
-                  <Col md={4}>RP.1.500.000</Col>
-                  <Col md={3}></Col>
+                  <Col md={5}>RP. 300.000 / Day</Col>
+                  <Col md={2}></Col>
                   <Col md={5}>
                     <div className="text-end ">
                       <Button
@@ -127,8 +127,8 @@ const Towera = () => {
                 <Card.Title>B 105</Card.Title>
                 <Card.Text>1 BR | Tower B | Floor 1</Card.Text>
                 <Row>
-                  <Col md={4}>RP.1.500.000</Col>
-                  <Col md={3}></Col>
+                  <Col md={5}>RP. 300.000 / Day</Col>
+                  <Col md={2}></Col>
                   <Col md={5}>
                     <div className="text-end ">
                       <Button
@@ -154,8 +154,8 @@ const Towera = () => {
                 <Card.Title>B 106</Card.Title>
                 <Card.Text>1 BR | Tower B | Floor 1</Card.Text>
                 <Row>
-                  <Col md={4}>RP.1.500.000</Col>
-                  <Col md={3}></Col>
+                  <Col md={5}>RP. 300.000 / Day</Col>
+                  <Col md={2}></Col>
                   <Col md={5}>
                     <div className="text-end ">
                       <Button

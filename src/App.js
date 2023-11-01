@@ -7,6 +7,7 @@ import Towera from "./components/Towera";
 import Towerb from "./components/Towerb";
 import Footer from "./components/Footer";
 import "./styles/landingPage.css";
+import Towerc from "./components/Towerc";
 
 function App() {
   return (
@@ -14,7 +15,7 @@ function App() {
       <NavigationBar />
       <div className="myBG">
         <Intro />
-        <div className="mt-5">
+        <div className="mt-4">
           <Image src={logo1} className="logo" />
         </div>
       </div>
@@ -26,6 +27,11 @@ function App() {
       <div className="towera">
         <Towerb />
       </div>
+
+      <div className="towera">
+        <Towerc />
+      </div>
+
       <br />
       <div className="footBG">
         <Footer />

@@ -6,8 +6,8 @@
 .intro {
   height: 300px;
   display: flex;
-  justify-content: flex-end;
-  align-items: flex-end;
+  justify-content: center;
+  align-items: center;
   text-align: center;
 }
 

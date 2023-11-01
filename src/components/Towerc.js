@@ -6,18 +6,18 @@ import room4 from "../assets/images/towera/room4.jpg";
 import room5 from "../assets/images/towera/room5.jpg";
 import room6 from "../assets/images/towera/room6.jpg";
 
-const Towerb = () => {
+const Towerc = () => {
   return (
     <div>
       <Container>
-        <h1>Tower A</h1>
+        <h1>Tower C</h1>
         <Row>
-          <Col md={4} className="movieWrapper" id="towera">
+          <Col md={4} className="movieWrapper" id="towerc">
             <Card className="towerImage bg-dark text-white">
               <Image variant="top" src={room1} alt="room1" className="images" />
               <Card.Body>
-                <Card.Title>A 101</Card.Title>
-                <Card.Text>1 BR | Tower A | Floor 1</Card.Text>
+                <Card.Title>C 101</Card.Title>
+                <Card.Text>1 BR | Tower C | Floor 1</Card.Text>
                 <Row>
                   <Col md={5}>RP. 300.000 / Day</Col>
                   <Col md={2}></Col>
@@ -27,7 +27,7 @@ const Towerb = () => {
                         variant="primary"
                         onClick={() =>
                           window.open(
-                            "https://wa.me/6281293769364?text=Bintang%20tower%20A%20Unit%20A101%20nya%20ready%20gak%20ya?%20Saya%20mau%20chek-in%20nih"
+                            "https://wa.me/6281293769364?text=Bintang%20tower%20C%20Unit%20C101%20nya%20ready%20gak%20ya?%20Saya%20mau%20chek-in%20nih"
                           )
                         }
                       >
@@ -43,8 +43,8 @@ const Towerb = () => {
             <Card className="towerImage bg-dark text-white">
               <Image variant="top" src={room2} alt="room1" className="images" />
               <Card.Body>
-                <Card.Title>A 102</Card.Title>
-                <Card.Text>1 BR | Tower A | Floor 1</Card.Text>
+                <Card.Title>C 102</Card.Title>
+                <Card.Text>1 BR | Tower C | Floor 1</Card.Text>
                 <Row>
                   <Col md={5}>RP. 300.000 / Day</Col>
                   <Col md={2}></Col>
@@ -54,7 +54,7 @@ const Towerb = () => {
                         variant="primary"
                         onClick={() =>
                           window.open(
-                            "https://wa.me/6281293769364?text=Bintang%20tower%20A%20Unit%20A102%20nya%20ready%20gak%20ya?%20Saya%20mau%20chek-in%20nih"
+                            "https://wa.me/6281293769364?text=Bintang%20tower%20C%20Unit%20C102%20nya%20ready%20gak%20ya?%20Saya%20mau%20chek-in%20nih"
                           )
                         }
                       >
@@ -70,8 +70,8 @@ const Towerb = () => {
             <Card className="towerImage bg-dark text-white">
               <Image variant="top" src={room3} alt="room1" className="images" />
               <Card.Body>
-                <Card.Title>A 103</Card.Title>
-                <Card.Text>1 BR | Tower A | Floor 1</Card.Text>
+                <Card.Title>C 103</Card.Title>
+                <Card.Text>1 BR | Tower C | Floor 1</Card.Text>
                 <Row>
                   <Col md={5}>RP. 300.000 / Day</Col>
                   <Col md={2}></Col>
@@ -81,7 +81,7 @@ const Towerb = () => {
                         variant="primary"
                         onClick={() =>
                           window.open(
-                            "https://wa.me/6281293769364?text=Bintang%20tower%20A%20Unit%20A103%20nya%20ready%20gak%20ya?%20Saya%20mau%20chek-in%20nih"
+                            "https://wa.me/6281293769364?text=Bintang%20tower%20C%20Unit%20C103%20nya%20ready%20gak%20ya?%20Saya%20mau%20chek-in%20nih"
                           )
                         }
                       >
@@ -97,8 +97,8 @@ const Towerb = () => {
             <Card className="towerImage bg-dark text-white">
               <Image variant="top" src={room4} alt="room1" className="images" />
               <Card.Body>
-                <Card.Title>A 104</Card.Title>
-                <Card.Text>1 BR | Tower A | Floor 1</Card.Text>
+                <Card.Title>C 104</Card.Title>
+                <Card.Text>1 BR | Tower C | Floor 1</Card.Text>
                 <Row>
                   <Col md={5}>RP. 300.000 / Day</Col>
                   <Col md={2}></Col>
@@ -108,7 +108,7 @@ const Towerb = () => {
                         variant="primary"
                         onClick={() =>
                           window.open(
-                            "https://wa.me/6281293769364?text=Bintang%20tower%20A%20Unit%20A104%20nya%20ready%20gak%20ya?%20Saya%20mau%20chek-in%20nih"
+                            "https://wa.me/6281293769364?text=Bintang%20tower%20C%20Unit%20C104%20nya%20ready%20gak%20ya?%20Saya%20mau%20chek-in%20nih"
                           )
                         }
                       >
@@ -124,8 +124,8 @@ const Towerb = () => {
             <Card className="towerImage bg-dark text-white">
               <Image variant="top" src={room5} alt="room1" className="images" />
               <Card.Body>
-                <Card.Title>A 105</Card.Title>
-                <Card.Text>1 BR | Tower A | Floor 1</Card.Text>
+                <Card.Title>C 105</Card.Title>
+                <Card.Text>1 BR | Tower C | Floor 1</Card.Text>
                 <Row>
                   <Col md={5}>RP. 300.000 / Day</Col>
                   <Col md={2}></Col>
@@ -135,7 +135,7 @@ const Towerb = () => {
                         variant="primary"
                         onClick={() =>
                           window.open(
-                            "https://wa.me/6281293769364?text=Bintang%20tower%20A%20Unit%20A105%20nya%20ready%20gak%20ya?%20Saya%20mau%20chek-in%20nih"
+                            "https://wa.me/6281293769364?text=Bintang%20tower%20C%20Unit%20C105%20nya%20ready%20gak%20ya?%20Saya%20mau%20chek-in%20nih"
                           )
                         }
                       >
@@ -151,8 +151,8 @@ const Towerb = () => {
             <Card className="towerImage bg-dark text-white">
               <Image variant="top" src={room6} alt="room1" className="images" />
               <Card.Body>
-                <Card.Title>A 106</Card.Title>
-                <Card.Text>1 BR | Tower A | Floor 1</Card.Text>
+                <Card.Title>C 106</Card.Title>
+                <Card.Text>1 BR | Tower C | Floor 1</Card.Text>
                 <Row>
                   <Col md={5}>RP. 300.000 / Day</Col>
                   <Col md={2}></Col>
@@ -162,7 +162,7 @@ const Towerb = () => {
                         variant="primary"
                         onClick={() =>
                           window.open(
-                            "https://wa.me/6281293769364?text=Bintang%20tower%20A%20Unit%20A106%20nya%20ready%20gak%20ya?%20Saya%20mau%20chek-in%20nih"
+                            "https://wa.me/6281293769364?text=Bintang%20tower%20C%20Unit%20C106%20nya%20ready%20gak%20ya?%20Saya%20mau%20chek-in%20nih"
                           )
                         }
                       >
@@ -180,4 +180,4 @@ const Towerb = () => {
   );
 };
 
-export default Towerb;
+export default Towerc;
